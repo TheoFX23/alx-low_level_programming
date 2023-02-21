@@ -12,5 +12,5 @@ int main(void)
 	{
 		putchar(lc);
 	}
-	puchar('\n');
+	putchar('\n');
 	return (0);
